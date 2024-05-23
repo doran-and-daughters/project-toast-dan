@@ -277,7 +277,7 @@ Let's imagine we reach out to an accessibility specialist, and they do us the fa
 
 ## Exercise 6: Extracting a custom hook
 
-Whew! We've done quite a bit with this lil’ `Toast` component!
+Whew! We've done quite a bit with this li’l `Toast` component!
 
 In the previous exercise, we added an “escape” keyboard shortcut, to dismiss all toasts in a single keystroke. This is a very common pattern, and it requires a surprising amount of boilerplate in React.
 
